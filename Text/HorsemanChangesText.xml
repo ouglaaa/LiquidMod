@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Created by Fruitstrike on 2016-11-11 -->
+
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_PROMOTION_HORSEMEN_PENALTY_VS_DISTRICTS_DESCRIPTION" Language="en_US">
+		  <Text>[COLOR_RED]-12 [ICON_Strength] Combat Strength vs. Cities and Districts.[ENDCOLOR]</Text>
+		</Row>
+		<Replace Tag="LOC_UNIT_HORSEMAN_DESCRIPTION" Language="en_US">
+		  <Text>Fast-moving Classical era light cavalry unit. Weak against cities and districts.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
