@@ -12,10 +12,12 @@
 		<UpdateDatabase id="LIQUID_MOD_GAMEPLAY_DATA">
 			<Items>
 				<File>Data/ChopChanges.xml</File>
+				<File>Data/ImprovementYieldChanges.xml</File>
 			</Items>
 		</UpdateDatabase>
 	</Components>
 	<Files>
 		<File>Data/ChopChanges.xml</File>
+		<File>Data/ImprovementYieldChanges.xml</File>
 	</Files>
 </Mod>
