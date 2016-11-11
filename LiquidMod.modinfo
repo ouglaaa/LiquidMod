@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-	<Mod id="913FFBC5-E40B-4A32-A745-1968E31F3241" version="1">
+<Mod id="913FFBC5-E40B-4A32-A745-1968E31F3241" version="1">
 	<Properties>
 		<Name>Liquid Mod</Name>
 		<Teaser>Civ 6 Competitive Blitz Mode</Teaser>
@@ -13,11 +13,13 @@
 			<Items>
 				<File>Data/ChopChanges.xml</File>
 				<File>Data/HorsemanChanges.xml</File>				
-				<File>Data/ImprovementYieldChanges.xml</File>			</Items>
+				<File>Data/ImprovementYieldChanges.xml</File>			
+			</Items>
 		</UpdateDatabase>
 		<LocalizedText id="LIQUID_MOD_TEXT">
 			<Items>
 				<File>Text/HorsemanChangesText.xml</File>
+				<File>Text/TileImprovementsTextChanges.xml</File>
 			</Items>
 		</LocalizedText>
 	</Components>
@@ -26,5 +28,6 @@
 		<File>Data/HorsemanChanges.xml</File>
 		<File>Text/HorsemanChangesText.xml</File>
 		<File>Data/ImprovementYieldChanges.xml</File>
+		<File>Text/TileImprovementsTextChanges.xml</File>
 	</Files>
 </Mod>
