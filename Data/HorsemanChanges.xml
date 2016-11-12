@@ -3,7 +3,7 @@
 
 <GameInfo>
 
-	<!-- Horsemen have ~33% less strength vs cities and districts now -->
+	<!-- Horsemen have -12 strength vs cities and districts now -->
 	<Tags>
 		<Row Tag="CLASS_HORSEMAN" Vocabulary="ABILITY_CLASS"/>
 	</Tags>

@@ -3,18 +3,6 @@
 
 <GameInfo>
 
-	<!-- Cheats -->
-	<Units>
-		<Update>
-			<Set PrereqTech="NULL" Cost="5" BaseMoves="10" />
-			<Where UnitType="UNIT_SPEARMAN" />
-		</Update>
-		<Update>
-			<Set PrereqTech="NULL" Cost="5" BaseMoves="10" StrategicResource="NULL" />
-			<Where UnitType="UNIT_HORSEMAN" />
-		</Update>
-	</Units>
-
 	<!-- Spearmen are +20 strength vs light/heavy cav (up from +10) -->
 	<ModifierArguments>
 		<Update>

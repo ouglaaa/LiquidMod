@@ -12,12 +12,14 @@
 		<UpdateDatabase id="LIQUID_MOD_GAMEPLAY_DATA">
 			<Items>
 				<File>Data/AntiCavalryChanges.xml</File>
+				<File>Data/ArcherChanges.xml</File>
 				<File>Data/ChopChanges.xml</File>
 				<File>Data/GlobalProdModBugFix.sql</File>
-				<File>Data/HorsemanChanges.xml</File>				
-				<File>Data/ImprovementYieldChanges.xml</File>		
-				<File>Data/LowerTechCost.xml</File>					
-				<File>Data/LowerCivicCost.xml</File>			
+				<File>Data/HorsemanChanges.xml</File>
+				<File>Data/ImprovementYieldChanges.xml</File>
+				<File>Data/LowerCivicCost.xml</File>
+				<File>Data/LowerTechCost.xml</File>
+				<File>Data/ScoutChanges.xml</File>
 			</Items>
 		</UpdateDatabase>
 		<LocalizedText id="LIQUID_MOD_TEXT">
@@ -31,12 +33,14 @@
 	<Files>
 		<!-- update database -->
 		<File>Data/AntiCavalryChanges.xml</File>
+		<File>Data/ArcherChanges.xml</File>
 		<File>Data/ChopChanges.xml</File>
 		<File>Data/GlobalProdModBugFix.sql</File>
 		<File>Data/HorsemanChanges.xml</File>
 		<File>Data/ImprovementYieldChanges.xml</File>
-		<File>Data/LowerTechCost.xml</File>					
-		<File>Data/LowerCivicCost.xml</File>		
+		<File>Data/LowerCivicCost.xml</File>
+		<File>Data/LowerTechCost.xml</File>
+		<File>Data/ScoutChanges.xml</File>
 		<!-- localized text -->
 		<File>Text/AntiCavalryChangesText.xml</File>
 		<File>Text/HorsemanChangesText.xml</File>
