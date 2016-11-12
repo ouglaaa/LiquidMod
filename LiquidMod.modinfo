@@ -11,6 +11,7 @@
 	<Components>
 		<UpdateDatabase id="LIQUID_MOD_GAMEPLAY_DATA">
 			<Items>
+				<File>Data/AntiCavalryChanges.xml</File>
 				<File>Data/ChopChanges.xml</File>
 				<File>Data/HorsemanChanges.xml</File>				
 				<File>Data/ImprovementYieldChanges.xml</File>			
@@ -18,14 +19,19 @@
 		</UpdateDatabase>
 		<LocalizedText id="LIQUID_MOD_TEXT">
 			<Items>
+				<File>Text/AntiCavalryChangesText.xml</File>
 				<File>Text/HorsemanChangesText.xml</File>
 				<File>Text/TileImprovementsTextChanges.xml</File>
 			</Items>
 		</LocalizedText>
 	</Components>
 	<Files>
+		<!-- update database -->
+		<File>Data/AntiCavalryChanges.xml</File>
 		<File>Data/ChopChanges.xml</File>
 		<File>Data/HorsemanChanges.xml</File>
+		<!-- localized text -->
+		<File>Text/AntiCavalryChangesText.xml</File>
 		<File>Text/HorsemanChangesText.xml</File>
 		<File>Data/ImprovementYieldChanges.xml</File>
 		<File>Text/TileImprovementsTextChanges.xml</File>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Created by Fruitstrike on 2016-11-11 -->
+
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_ABILITY_ANTI_CAVALRY_MODIFIER_DESCRIPTION" Language="en_US">
+		  <Text>+20 against cavalry units</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
