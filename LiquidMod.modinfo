@@ -16,7 +16,8 @@
 				<File>Data/GlobalProdModBugFix.sql</File>
 				<File>Data/HorsemanChanges.xml</File>				
 				<File>Data/ImprovementYieldChanges.xml</File>		
-				<File>Data/LowerTechCost.xml</File>			
+				<File>Data/LowerTechCost.xml</File>					
+				<File>Data/LowerCivicCost.xml</File>			
 			</Items>
 		</UpdateDatabase>
 		<LocalizedText id="LIQUID_MOD_TEXT">
@@ -34,7 +35,8 @@
 		<File>Data/GlobalProdModBugFix.sql</File>
 		<File>Data/HorsemanChanges.xml</File>
 		<File>Data/ImprovementYieldChanges.xml</File>
-		<File>Data/LowerTechCost.xml</File>			
+		<File>Data/LowerTechCost.xml</File>					
+		<File>Data/LowerCivicCost.xml</File>		
 		<!-- localized text -->
 		<File>Text/AntiCavalryChangesText.xml</File>
 		<File>Text/HorsemanChangesText.xml</File>
