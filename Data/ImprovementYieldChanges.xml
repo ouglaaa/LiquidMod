@@ -19,21 +19,21 @@
 			<Where ImprovementType="IMPROVEMENT_MINE" YieldType="YIELD_PRODUCTION" />
 		</Update>
 		<Update>
+			<Set YieldChange="1" />
+			<Where ImprovementType="IMPROVEMENT_PASTURE" YieldType="YIELD_PRODUCTION" />
+		</Update>
+		<Update>
 			<Set YieldChange="2" />
 			<Where ImprovementType="IMPROVEMENT_PASTURE" YieldType="YIELD_FOOD" />
 		</Update>
 		<Update>
 			<Set YieldChange="1" />
-			<Where ImprovementType="IMPROVEMENT_PASTURE" YieldType="YIELD_PRODUCTION" />
-		</Update>
-		<Update>
-			<Set YieldChange="1" />
 			<Where ImprovementType="IMPROVEMENT_PLANTATION" YieldType="YIELD_FOOD" />
 		</Update>
-		<Update>
+		<Update>	
 			<Set YieldChange="3" />
 			<Where ImprovementType="IMPROVEMENT_PLANTATION" YieldType="YIELD_GOLD" />
 		</Update>
-	</Feature_Removes>
+	</Improvement_YieldChanges>
 	
 </GameInfo>

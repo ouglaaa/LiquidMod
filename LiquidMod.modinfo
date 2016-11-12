@@ -13,7 +13,8 @@
 			<Items>
 				<File>Data/ChopChanges.xml</File>
 				<File>Data/HorsemanChanges.xml</File>				
-				<File>Data/ImprovementYieldChanges.xml</File>			
+				<File>Data/ImprovementYieldChanges.xml</File>		
+				<File>Data/LowerTechCost.xml</File>			
 			</Items>
 		</UpdateDatabase>
 		<LocalizedText id="LIQUID_MOD_TEXT">
@@ -29,5 +30,6 @@
 		<File>Text/HorsemanChangesText.xml</File>
 		<File>Data/ImprovementYieldChanges.xml</File>
 		<File>Text/TileImprovementsTextChanges.xml</File>
+		<File>Data/LowerTechCost.xml</File>			
 	</Files>
 </Mod>
