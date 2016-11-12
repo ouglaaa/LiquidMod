@@ -34,10 +34,10 @@
 		<File>Data/GlobalProdModBugFix.sql</File>
 		<File>Data/HorsemanChanges.xml</File>
 		<File>Data/ImprovementYieldChanges.xml</File>
+		<File>Data/LowerTechCost.xml</File>			
 		<!-- localized text -->
 		<File>Text/AntiCavalryChangesText.xml</File>
 		<File>Text/HorsemanChangesText.xml</File>
 		<File>Text/TileImprovementsTextChanges.xml</File>
-		<File>Data/LowerTechCost.xml</File>			
 	</Files>
 </Mod>
