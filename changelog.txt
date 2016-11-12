@@ -1,3 +1,15 @@
-**V1**
+**LiquidMod v1**
 
-* Repository started.
+* Anti-Cavalry units (Spearmen, Pikemen) now have +20 vs cavalry (up from +10)
+* Archers now have 10 melee strength (down from 15)
+* Chopping jungles, marshes, and forests is at 80% of the normal value (8 or 16 instead of 10 or 20)
+* [Bug Fix] Player-based Global Production Modifiers (like God of the Forge) now only affect YOU globally instead of all players.
+* Horsemen now have -12 Combat Strength when fighting cities and districts
+* Farms provide +3 Food
+* Mines provide +3 Production
+* Pastures provide +1 Production and +2 Food
+* Irrigation improvements provide +1 Food and +3 Gold
+* All Civics cost 25% less Culture to research
+* All Units available from the Medieval Era and on cost 50% less Production
+* All Technologies cost 25% less Science to research
+* Scouts have 15 combat strength (up from 10)
