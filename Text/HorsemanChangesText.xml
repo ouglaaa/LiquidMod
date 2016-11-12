@@ -4,7 +4,7 @@
 <GameData>
 	<LocalizedText>
 		<Row Tag="LOC_PROMOTION_HORSEMEN_PENALTY_VS_DISTRICTS_DESCRIPTION" Language="en_US">
-		  <Text>[COLOR_RED]-12 [ICON_Strength] Combat Strength vs. Cities and Districts.[ENDCOLOR]</Text>
+		  <Text>[COLOR_RED]-12 against cities and districts[ENDCOLOR]</Text>
 		</Row>
 		<Replace Tag="LOC_UNIT_HORSEMAN_DESCRIPTION" Language="en_US">
 		  <Text>Fast-moving Classical era light cavalry unit. Weak against cities and districts.</Text>
