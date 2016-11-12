@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Created by ouglaaa on 2016-11-11 -->
+
+<GameData>
+	<LocalizedText>
+
+		<!-- Farms +3F instead of +1 -->
+		<Replace Tag="LOC_IMPROVEMENT_FARM_DESCRIPTION" Language="en_US">
+			<Text>Unlocks the Builder ability to construct Farms.[NEWLINE][NEWLINE]+3 [ICON_Food] Food. Can only be built on Grassland or Plains.[NEWLINE][NEWLINE]Constructing farms adjacent to other Farms provides bonuses to Housing.</Text>
+		</Replace>    
+		<Replace Tag="LOC_IMPROVEMENT_FARM_DESCRIPTION" Language="de_DE">
+			<Text>Schaltet die Handwerker-Fähigkeit frei, Bauernhöfe zu bauen.[NEWLINE][NEWLINE]+3 [ICON_Food] Nahrung. Kann nur auf Grasland oder Ebenen gebaut werden.[NEWLINE][NEWLINE]Bauernhöfe angrenzend an andere Bauernhöfe zu bauen bietet Bonusse auf Wohnraum.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_FARM_DESCRIPTION" Language="es_ES">
+			<Text>Desbloquea la habilidad Constructor para crear Granjas.[NEWLINE][NEWLINE]+3 a Alimentos [ICON_Food]. Solo puede construirse en Praderas o Llanuras.[NEWLINE][NEWLINE]Construir Granjas adyacentes a otras Granjas proporciona bonificaciones al Alojamiento.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_FARM_DESCRIPTION" Language="fr_FR">
+			<Text>Débloque la compétence de bâtisseur permettant de construire des fermes. [NEWLINE][NEWLINE][ICON_Food] Nourriture + 1. Ne peut être construite que sur une prairie ou une plaine. [NEWLINE][NEWLINE]Construisez plusieurs fermes adjacentes pour bénéficier d'un bonus d'habitations.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_FARM_DESCRIPTION" Language="it_IT">
+			<Text>Sblocca l'abilità dei Costruttori di realizzare Fattorie.[NEWLINE][NEWLINE]+3 [ICON_Food] Cibo. Una Fattoria può essere costruita solo in una casella di prateria o pianura.[NEWLINE][NEWLINE]Costruire più Fattorie adiacenti fornisce un bonus alle Abitazioni.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_FARM_DESCRIPTION" Language="ja_JP">
+			<Text>労働者が農場を建設できるようになる。[NEWLINE][NEWLINE][ICON_Food] 食料+3。草原または平原にのみ建設可能。[NEWLINE][NEWLINE]他の農場に隣接して建設すると、住宅にボーナス。</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_FARM_DESCRIPTION" Language="ko_KR">
+			<Text>건설자의 농장 건설 능력을 잠금 해제합니다.[NEWLINE][NEWLINE][ICON_Food] 식량 +3을 제공합니다. 초원 또는 평원에 지어야 합니다.[NEWLINE][NEWLINE]농장 옆에 다른 농장을 지으면 주거공간 보너스가 부여됩니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_FARM_DESCRIPTION" Language="pl_PL">
+			<Text>Odblokowuje zdolność budowniczych pozwalającą wznosić farmy.[NEWLINE][NEWLINE]+3 do [ICON_Food] żywności. Można budować je tylko na łąkach albo równinach.[NEWLINE][NEWLINE]Stawianie farm obok siebie zapewnia premie dla obszarów mieszkalnych.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_FARM_DESCRIPTION" Language="pt_BR">
+			<Text>Desbloqueia a habilidade de Construtores para construir Fazendas[NEWLINE][NEWLINE]+3 de [ICON_Food] alimento. Só podem ser construídas em pradarias e planícies.[NEWLINE][NEWLINE]Construir Fazendas adjacentes a outras Fazendas concede bônus em habitação.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_FARM_DESCRIPTION" Language="ru_RU">
+			<Text>Позволяет строителям создавать фермы.[NEWLINE][NEWLINE]+3 [ICON_Food] пищи. Можно строить только на лугах и равнинах.[NEWLINE][NEWLINE]Постройка ферм рядом с другими фермами дает бонусы к жилью.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_FARM_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>解锁建造者的能力来建造农场。[NEWLINE][NEWLINE]+3 [ICON_Food] 食物。只能建在草原或平原上。[NEWLINE][NEWLINE]在农场旁边建农场能提供住房加成。</Text>
+		</Replace>    
+		<Replace Tag="LOC_IMPROVEMENT_FARM_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>解鎖建造者能力來建造農場。[NEWLINE][NEWLINE]+3 [ICON_Food] 食物。只能建在草原或平原上。[NEWLINE][NEWLINE]在農場旁邊建農場能提供住房加成。</Text>
+		</Replace>
+
+
+		<!-- Mines +3P instead of +1 -->
+		<Replace Tag="LOC_IMPROVEMENT_MINE_DESCRIPTION" Language="en_US">
+			<Text>Unlocks the Builder ability to construct Mines.[NEWLINE][NEWLINE]+3 [ICON_Production] Production. Can only be built on Hills or certain resources.[NEWLINE][NEWLINE]If built on Luxury or Strategic resources, city will gain use of that resource.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_MINE_DESCRIPTION" Language="de_DE">
+			<Text>Schaltet die Handwerker-Fähigkeit frei, Minen zu bauen.[NEWLINE][NEWLINE]+3 [ICON_Production] Produktion. Kann nur auf Hügeln oder bestimmten Ressourcen gebaut werden.[NEWLINE][NEWLINE]Wenn sie auf Luxusgütern oder strategischen Ressourcen gebaut wird, kann die Stadt diese Ressource benutzen.</Text>
+		</Replace>
+
+		<Replace Tag="LOC_IMPROVEMENT_MINE_DESCRIPTION" Language="es_ES">
+			<Text>Desbloquea la habilidad Constructor para crear Minas.[NEWLINE][NEWLINE]+3 a la Producción [ICON_Production]. Solo puede construirse en Colinas o en ciertos recursos.[NEWLINE][NEWLINE]Si se construye con un recurso de lujo o estratégico, la ciudad podrá usar dicho recurso.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_MINE_DESCRIPTION" Language="fr_FR">
+			<Text>Débloque la compétence de bâtisseur permettant de construire des mines. [NEWLINE][NEWLINE][ICON_Production] Production + 1. Ne peut être construite que sur une colline ou certaines ressources. [NEWLINE][NEWLINE]Construite sur une ressource de luxe ou stratégique, permet à la ville d'utiliser cette ressource.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_MINE_DESCRIPTION" Language="it_IT">
+			<Text>Sblocca l'abilità dei Costruttori di realizzare Miniere.[NEWLINE][NEWLINE]+3 [ICON_Production] Produzione. Una Miniera può essere costruita solo su una collina o su determinate risorse.[NEWLINE][NEWLINE]Se costruita su una risorsa strategica o di lusso, la città otterrà l'uso di tale risorsa.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_MINE_DESCRIPTION" Language="ja_JP">
+			<Text>労働者が鉱山を建設できるようになる。[NEWLINE][NEWLINE][ICON_Production] 生産力+3。丘陵などにのみ建設可能。[NEWLINE][NEWLINE]高級資源または戦略資源のある場所に建設すると、都市はそれを利用できるようになる。</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_MINE_DESCRIPTION" Language="ko_KR">
+			<Text>건설자의 광산 건설 능력을 잠금 해제합니다.[NEWLINE][NEWLINE][ICON_Production] 생산력 +3을 제공합니다. 언덕 또는 특정 자원 위에 지어야 합니다.[NEWLINE][NEWLINE]사치 또는 전략 자원 위에 지으면 도시가 해당 자원을 사용할 수 있습니다.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_MINE_DESCRIPTION" Language="pl_PL">
+			<Text>Odblokowuje zdolność budowniczych pozwalającą tworzyć kopalnie.[NEWLINE][NEWLINE]+3 do [ICON_Production] produkcji. Można budować tylko na wzgórzach lub polach z określonymi zasobami.[NEWLINE][NEWLINE]Jeżeli kopalnia powstanie na zasobach luksusowych lub strategicznych, miasto będzie mogło korzystać z tych zasobów.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_MINE_DESCRIPTION" Language="pt_BR">
+			<Text>Desbloqueia a habilidade de Construtores para construir Minas.[NEWLINE][NEWLINE]+3 de [ICON_Production] produção. Só podem ser construídas em colinas ou certos recursos.[NEWLINE][NEWLINE]Se construídas com recursos de luxo ou estratégicos, a cidade poderá usar este recurso.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_MINE_DESCRIPTION" Language="ru_RU">
+			<Text>Позволяет строителям строить рудники.[NEWLINE][NEWLINE]+3 [ICON_Production] производства. Можно строить только на холмах или на определенных ресурсах.[NEWLINE][NEWLINE]При постройке на редких или стратегических ресурсах город получит эти ресурсы.</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_MINE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>解锁建造者的能力来建造矿山。[NEWLINE][NEWLINE]+3 [ICON_Production] 生产力。只能建造丘陵上。[NEWLINE][NEWLINE]如果建在奢侈资源或战略资源上，城市也能使用这种资源。</Text>
+		</Replace>
+		<Replace Tag="LOC_IMPROVEMENT_MINE_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>解鎖建造者能力來建造礦井。[NEWLINE][NEWLINE]+3 [ICON_Production] 生產力。只能建造丘陵或特定資源上。[NEWLINE][NEWLINE]如果建在奢侈資源或戰略資源上，城市也能使用這種資源。</Text>
+		</Replace>
+		
+		<!-- Pastures +2f +1p instead of +1p] -->
+		<Replace Tag="LOC_IMPROVEMENT_PASTURE_DESCRIPTION" Language="en_US">
+			<Text>Unlocks the Builder ability to construct Pastures.[NEWLINE][NEWLINE]+2 [ICON_Food] Food and +1 [ICON_Production] Production. Can only be built on [ICON_RESOURCE_CATTLE] Cattle, [ICON_RESOURCE_SHEEP] Sheep, or [ICON_RESOURCE_HORSES] Horse resources.[NEWLINE][NEWLINE]If built on a [ICON_RESOURCE_HORSES] Horse resource, the city will gain use of that resource.</Text>
+		</Replace>
+		
+		<!-- Plantations +1f +3g instead of +1g] -->
+		<Replace Tag="LOC_IMPROVEMENT_PLANTATION_DESCRIPTION" Language="en_US">
+			<Text>Unlocks the Builder ability to construct Plantations.[NEWLINE][NEWLINE]+1 [ICON_Food] Food and +3 [ICON_Gold] Gold. Can only be built on [ICON_RESOURCE_BANANAS] Bananas, [ICON_RESOURCE_CITRUS] Citrus, [ICON_RESOURCE_COCOA] Cocoa, [ICON_RESOURCE_COFFEE] Coffee, [ICON_RESOURCE_COTTON] Cotton, [ICON_RESOURCE_DYES] Dyes, [ICON_RESOURCE_SILK] Silk, [ICON_RESOURCE_SPICES] Spices, [ICON_RESOURCE_SUGAR] Sugar, [ICON_RESOURCE_TEA] Tea, [ICON_RESOURCE_TOBACCO] Tobacco, or [ICON_RESOURCE_WINE] Wine resources.[NEWLINE][NEWLINE]If built on a Luxury resource, the city will gain use of that resource.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
