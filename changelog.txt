@@ -13,4 +13,8 @@
 * All Units available from the Medieval Era and on cost 50% less Production
 * All Technologies cost 25% less Science to research
 * Scouts have 15 combat strength (up from 10)
+
+**LiquidMod v2**
+
 * Policy Cards unlocked by researching 'The Enlightenment' Civic (Rationalism, Free Market & Liberalism) now give 5 times their respective bonus.
+* Walls and Encampments have 50% HP.
