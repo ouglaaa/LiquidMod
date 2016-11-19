@@ -21,6 +21,7 @@
 				<File>Data/LowerMedAndLaterUnitCost.xml</File>
 				<File>Data/LowerTechCost.xml</File>
 				<File>Data/ScoutChanges.xml</File>
+				<File>Data/WallChanges.xml</File>
 			</Items>
 		</UpdateDatabase>
 		<LocalizedText id="LIQUID_MOD_TEXT">
@@ -44,6 +45,7 @@
 		<File>Data/LowerMedAndLaterUnitCost.xml</File>
 		<File>Data/LowerTechCost.xml</File>
 		<File>Data/ScoutChanges.xml</File>
+		<File>Data/WallChanges.xml</File>
 		<!-- localized text -->
 		<File>Text/AntiCavalryChangesText.xml</File>
 		<File>Text/EnlightenmentPolicyDescriptionUpdates.xml</File>
