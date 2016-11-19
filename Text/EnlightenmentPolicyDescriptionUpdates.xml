@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Created using Sublime Text, by Steven A. Warren (ScottishRamblyMan), on 19/11/2016 -->
+<!-- Related File: EnlightenmentPolicyChanges.sql, Location: Root\Data -->
+
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_POLICY_RATIONALISM_DESCRIPTION" Language="en_US">
+			<Text>+500% [ICON_Science] Science from Campus district buildings.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_FREE_MARKET_DESCRIPTION" Language="en_US">
+			<Text>+500% [ICON_Gold] Gold yield from Commercial Hub district buildings.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_LIBERALISM_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Amenities] Amenities to all cities with at least 2 specialty districts.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
