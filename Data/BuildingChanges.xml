@@ -4,11 +4,8 @@
 <GameInfo>
 
 	<!-- 
-	
-Temple - Units built in a city with a temple attack at 100% efficiency when injured
-Shrine + 10 faith and units built in this city heal twice as fast
-Lighthouse + 3 gold for each ocean tile used. 
-	
+			Temple - Units built in a city with a temple attack at 100% efficiency when injured
+			Shrine + 10 faith and units built in this city heal twice as fast
 	-->
 	
 	<Buildings>
@@ -71,7 +68,6 @@ Lighthouse + 3 gold for each ocean tile used.
 		</Update>
 		
 	</Building_YieldChanges>
-	
 	<ModifierArguments>
 	
 		<!-- Stables + 50% expereince to mounted units built in the city -->

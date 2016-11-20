@@ -17,6 +17,7 @@
 				<File>Data/EnlightenmentPolicyChanges.sql</File>
 				<File>Data/HorsemanChanges.xml</File>
 				<File>Data/ImprovementYieldChanges.xml</File>
+				<File>Data/LighthouseChanges.xml</File>
 				<File>Data/LowerCivicCost.xml</File>
 				<File>Data/LowerMedAndLaterUnitCost.xml</File>
 				<File>Data/LowerTechCost.xml</File>
@@ -42,6 +43,7 @@
 		<File>Data/EnlightenmentPolicyChanges.sql</File>
 		<File>Data/HorsemanChanges.xml</File>
 		<File>Data/ImprovementYieldChanges.xml</File>
+		<File>Data/LighthouseChanges.xml</File>
 		<File>Data/LowerCivicCost.xml</File>
 		<File>Data/LowerMedAndLaterUnitCost.xml</File>
 		<File>Data/LowerTechCost.xml</File>
