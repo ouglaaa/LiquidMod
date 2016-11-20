@@ -17,19 +17,49 @@ Library + 10 beakers
 University + 25 beakers
 Workshop + 10 hammers
 Shrine + 10 faith and units built in this city heal twice as fast
-Harbor + 10 gold for every worked water resource
 Lighthouse + 3 gold for each ocean tile used. 
-Aqueduct + 20 housing 
-Gramary +10 housing
 	
 	-->
 	
+	<Buildings>
+		
+		<!-- Gramary +10 housing -->
+		<Update>
+			<Set Housing="10" />
+			<Where BuildingType="BUILDING_GRANARY" />
+		</Update>
+		
+		<!--  -->
+		<Update>
+			<Set  />
+			<Where  />
+		</Update>
+		
+		<!--  -->
+		<Update>
+			<Set  />
+			<Where  />
+		</Update>
+		
+	</Buildings>
 	<Building_YieldChanges>
 	
 		<!-- Water mill + Increase hammers to +5 a turn -->
 		<Update>
 			<Set YieldChange="5" />
 			<Where BuildingType="BUILDING_WATER_MILL" YieldType="YIELD_PRODUCTION" />
+		</Update>
+		
+		<!--  -->
+		<Update>
+			<Set  />
+			<Where  />
+		</Update>
+		
+		<!--  -->
+		<Update>
+			<Set  />
+			<Where  />
 		</Update>
 		
 	</Building_YieldChanges>
