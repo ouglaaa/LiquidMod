@@ -6,9 +6,6 @@
 	<!-- 
 	
 Temple - Units built in a city with a temple attack at 100% efficiency when injured
-Stables + 50% expereince to mounted units built in the city
-Barracks + 50% expereince to melee units built in the city
-Armory + 50% experience to all units built in the city
 Shrine + 10 faith and units built in this city heal twice as fast
 Lighthouse + 3 gold for each ocean tile used. 
 	
@@ -75,5 +72,26 @@ Lighthouse + 3 gold for each ocean tile used.
 		
 	</Building_YieldChanges>
 	
+	<ModifierArguments>
+	
+		<!-- Stables + 50% expereince to mounted units built in the city -->
+		<Update>
+			<Set Value="50" />
+			<Where ModifierId="STABLE_TRAINED_UNIT_XP_MODIFIER" Name="Amount" />
+		</Update>
+		
+		<!-- Barracks + 50% expereince to melee units built in the city -->
+		<Update>
+			<Set Value="50" />
+			<Where ModifierId="BARRACKS_TRAINED_UNIT_XP_MODIFIER" Name="Amount" />
+		</Update>
+		
+		<!-- Armory + 50% experience to all units built in the city -->
+		<Update>
+			<Set Value="50" />
+			<Where ModifierId="ARMORY_TRAINED_UNIT_XP_MODIFIER" Name="Amount" />
+		</Update>
+	
+	</ModifierArguments>
 	
 </GameInfo>
