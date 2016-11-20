@@ -12,10 +12,6 @@ Art museum - + 10 Amenities to city
 Stables + 50% expereince to mounted units built in the city
 Barracks + 50% expereince to melee units built in the city
 Armory + 50% experience to all units built in the city
-Market + 10 gold
-Library + 10 beakers
-University + 25 beakers
-Workshop + 10 hammers
 Shrine + 10 faith and units built in this city heal twice as fast
 Lighthouse + 3 gold for each ocean tile used. 
 	
@@ -50,16 +46,28 @@ Lighthouse + 3 gold for each ocean tile used.
 			<Where BuildingType="BUILDING_WATER_MILL" YieldType="YIELD_PRODUCTION" />
 		</Update>
 		
-		<!--  -->
+		<!-- Workshop + 10 hammers -->
 		<Update>
-			<Set  />
-			<Where  />
+			<Set YieldChange="10" />
+			<Where BuildingType="BUILDING_WORKSHOP" YieldType="YIELD_PRODUCTION" />
 		</Update>
 		
-		<!--  -->
+		<!-- University + 25 beakers -->
 		<Update>
-			<Set  />
-			<Where  />
+			<Set YieldChange="25" />
+			<Where BuildingType="BUILDING_UNIVERSITY" YieldType="YIELD_SCIENCE" />
+		</Update>
+		
+		<!-- Library + 10 beakers -->
+		<Update>
+			<Set YieldChange="10" />
+			<Where BuildingType="BUILDING_LIBRARY" YieldType="YIELD_SCIENCE" />
+		</Update>
+		
+		<!-- Market + 10 gold -->
+		<Update>
+			<Set YieldChange="10" />
+			<Where BuildingType="BUILDING_MARKET" YieldType="YIELD_GOLD" />
 		</Update>
 		
 	</Building_YieldChanges>
