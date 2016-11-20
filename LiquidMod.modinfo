@@ -13,7 +13,6 @@
 			<Items>
 				<File>Data/AntiCavalryChanges.xml</File>
 				<File>Data/ArcherChanges.xml</File>
-				<File>Data/ChopChanges.xml</File>
 				<File>Data/EnlightenmentPolicyChanges.sql</File>
 				<File>Data/HorsemanChanges.xml</File>
 				<File>Data/ImprovementYieldChanges.xml</File>
@@ -21,6 +20,7 @@
 				<File>Data/LowerMedAndLaterUnitCost.xml</File>
 				<File>Data/LowerTechCost.xml</File>
 				<File>Data/ScoutChanges.xml</File>
+				<File>Data/TurnPhasesChanges.xml</File>
 				<File>Data/WallChanges.xml</File>
 			</Items>
 		</UpdateDatabase>
@@ -37,7 +37,6 @@
 		<!-- update database -->
 		<File>Data/AntiCavalryChanges.xml</File>
 		<File>Data/ArcherChanges.xml</File>
-		<File>Data/ChopChanges.xml</File>
 		<File>Data/EnlightenmentPolicyChanges.sql</File>
 		<File>Data/HorsemanChanges.xml</File>
 		<File>Data/ImprovementYieldChanges.xml</File>
@@ -45,6 +44,7 @@
 		<File>Data/LowerMedAndLaterUnitCost.xml</File>
 		<File>Data/LowerTechCost.xml</File>
 		<File>Data/ScoutChanges.xml</File>
+		<File>Data/TurnPhasesChanges.xml</File>
 		<File>Data/WallChanges.xml</File>
 		<!-- localized text -->
 		<File>Text/AntiCavalryChangesText.xml</File>
