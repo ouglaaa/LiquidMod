@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Created by Fruitstrike on 2016-11-20 -->
+
+<GameInfo>
+
+	<!-- 
+	
+Temple - Units built in a city with a temple attack at 100% efficiency when injured
+Colosseum - + 10 Amenities to city
+Amphitheter - + 10 Amenities to city
+Art museum - + 10 Amenities to city
+Stables + 50% expereince to mounted units built in the city
+Barracks + 50% expereince to melee units built in the city
+Armory + 50% experience to all units built in the city
+Market + 10 gold
+Library + 10 beakers
+University + 25 beakers
+Workshop + 10 hammers
+Shrine + 10 faith and units built in this city heal twice as fast
+Harbor + 10 gold for every worked water resource
+Lighthouse + 3 gold for each ocean tile used. 
+Aqueduct + 20 housing 
+Gramary +10 housing
+	
+	-->
+	
+	<Building_YieldChanges>
+	
+		<!-- Water mill + Increase hammers to +5 a turn -->
+		<Update>
+			<Set YieldChange="5" />
+			<Where BuildingType="BUILDING_WATER_MILL" YieldType="YIELD_PRODUCTION" />
+		</Update>
+		
+	</Building_YieldChanges>
+	
+	
+</GameInfo>

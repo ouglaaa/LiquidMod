@@ -13,6 +13,7 @@
 			<Items>
 				<File>Data/AntiCavalryChanges.xml</File>
 				<File>Data/ArcherChanges.xml</File>
+				<File>Data/BuildingChanges.xml</File>
 				<File>Data/EnlightenmentPolicyChanges.sql</File>
 				<File>Data/HorsemanChanges.xml</File>
 				<File>Data/ImprovementYieldChanges.xml</File>
@@ -37,6 +38,7 @@
 		<!-- update database -->
 		<File>Data/AntiCavalryChanges.xml</File>
 		<File>Data/ArcherChanges.xml</File>
+		<File>Data/BuildingChanges.xml</File>
 		<File>Data/EnlightenmentPolicyChanges.sql</File>
 		<File>Data/HorsemanChanges.xml</File>
 		<File>Data/ImprovementYieldChanges.xml</File>
