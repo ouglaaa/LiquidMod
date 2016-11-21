@@ -29,6 +29,7 @@
 		<LocalizedText id="LIQUID_MOD_TEXT">
 			<Items>
 				<File>Text/AntiCavalryChangesText.xml</File>
+				<File>Text/BuildingChangesText.xml</File>
 				<File>Text/EnlightenmentPolicyDescriptionUpdates.xml</File>
 				<File>Text/HorsemanChangesText.xml</File>
 				<File>Text/TileImprovementsTextChanges.xml</File>
@@ -52,6 +53,7 @@
 		<File>Data/WallChanges.xml</File>
 		<!-- localized text -->
 		<File>Text/AntiCavalryChangesText.xml</File>
+		<File>Text/BuildingChangesText.xml</File>
 		<File>Text/EnlightenmentPolicyDescriptionUpdates.xml</File>
 		<File>Text/HorsemanChangesText.xml</File>
 		<File>Text/TileImprovementsTextChanges.xml</File>

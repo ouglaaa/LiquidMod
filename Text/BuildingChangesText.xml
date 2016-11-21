@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Created by Fruitstrike on 2016-11-20 -->
+
+<GameData>
+	<LocalizedText>
+		<Replace Tag="LOC_BUILDING_STABLE_DESCRIPTION" Language="en_US">
+		  <Text>+50% combat experience for all cavalry class units trained in this city. May not be built in an Encampment district that already has a Barracks.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_BARRACKS_DESCRIPTION" Language="en_US">
+		  <Text>+50% combat experience for all melee and ranged land units trained in this city.[NEWLINE][NEWLINE]May not be built in an Encampment district that already has a Stable.</Text>
+		</Replace>
+		<Replace Tag="LOC_BUILDING_ARMORY_DESCRIPTION" Language="en_US">
+		  <Text>+50% combat experience for all land units trained in this city.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
